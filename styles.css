@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/694189032/photo/hand-held-bbq-favorites.jpg?s=170667a&w=is&k=20&c=wk8eMpw-RZOtDEzwWXHyStrBbChWHpyPUqbWk3kHloo=);
+}
+div {
+    background-color: aquamarine;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
