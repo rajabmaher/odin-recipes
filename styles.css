@@ -15,7 +15,10 @@ header {
     background-color: rgb(238, 199, 148);
     /*background-color: rgba(3, 3, 3, 0.808);*/
 }
-
+.recipe1 > div > img {
+    width: 590px;
+    height: 520px;
+}
 nav {
     margin: 4em ;
 }
