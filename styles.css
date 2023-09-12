@@ -15,7 +15,15 @@ header {
     background-color: rgb(238, 199, 148);
     /*background-color: rgba(3, 3, 3, 0.808);*/
 }
+.recipe1 {
+    background-image: url('https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9324227.jpg&q=60&c=sc&orient=true&poi=auto&h=512');
+    background-size: cover;
+}
 
+div > a {
+    background-color: white;
+    width: 200px;
+}
 nav {
     margin: 4em ;
 }
